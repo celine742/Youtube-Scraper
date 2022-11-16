@@ -15,7 +15,7 @@ Dans un terminal, exécutez les commandes suivantes:
 
 Dans un terminal, exécutez la commande suivante:
 
-``python -m pytest tests``
+``python -m pytest test_scraper.py``
 
 ## Obtenir le coverage:
 
